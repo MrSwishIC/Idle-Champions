@@ -1,4 +1,5 @@
 # IC Script Hub
+<<<<<<< HEAD
 ## ``News: ``
 ``4.4.6 - 2025-11-03``
 **Welcome** to Script Hub's new home!
@@ -102,3 +103,7 @@ You can open Readme.md (this file) in any Markdown editor on Windows that has a 
 
 
 
+=======
+## ``Official Script Hub Has Moved!``
+Find it here: [http://www.github.com/antilectual/Idle-Champions/](http://www.github.com/antilectual/Idle-Champions/)
+>>>>>>> 91cd78793be6d8da5a175f80c3a505cc9ba0642f
